@@ -1759,3 +1759,10 @@ UnknownFunction []
 [2023.03.25-19.51.08:545][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.03.25-19.51.08:547][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
 [2023.03.25-19.51.08:586][301]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.03.25-19.53.57:827][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.03.25-19.53.57:885][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Platform/Maps/Levels/LV_Tutorial/B/Q2/PII622JAWIVY4JPT72POD9_Auto1
+[2023.03.25-19.53.57:885][796]LogSavePackage: Moving 'C:/Users/dream/OneDrive/Desktop/Game Development/1_PLATFORM/4_Enemy/Saved/PII622JAWIVY4JPT72POD9_Auto153BE39A140706E84B8D47392EB11E8EB.tmp' to 'C:/Users/dream/OneDrive/Desktop/Game Development/1_PLATFORM/4_Enemy/Saved/Autosaves/Game/__ExternalActors__/Platform/Maps/Levels/LV_Tutorial/B/Q2/PII622JAWIVY4JPT72POD9_Auto1.uasset'
+[2023.03.25-19.53.57:893][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Platform/Maps/Levels/LV_Tutorial/E/V5/7A9CPBYYKJGEYRF62D9955_Auto1
+[2023.03.25-19.53.57:893][796]LogSavePackage: Moving 'C:/Users/dream/OneDrive/Desktop/Game Development/1_PLATFORM/4_Enemy/Saved/7A9CPBYYKJGEYRF62D9955_Auto191414E1E44F9656CEE2D6B84804177C9.tmp' to 'C:/Users/dream/OneDrive/Desktop/Game Development/1_PLATFORM/4_Enemy/Saved/Autosaves/Game/__ExternalActors__/Platform/Maps/Levels/LV_Tutorial/E/V5/7A9CPBYYKJGEYRF62D9955_Auto1.uasset'
+[2023.03.25-19.53.57:895][796]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Platform/Maps/Levels/LV_Tutorial' took 0.089
+[2023.03.25-19.53.57:895][796]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
